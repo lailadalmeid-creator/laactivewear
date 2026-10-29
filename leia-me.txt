@@ -1,0 +1,34 @@
+L/A ACTIVEWEAR — LOJA GRATUITA COM SACOLA E CONSULTA PELO WHATSAPP
+
+ESTA VERSÃO CONTÉM 7 PRODUTOS COM SUAS FOTOS ORIGINAIS:
+- Macaquinho Vibe — R$ 164,90
+- Conjunto Short Aura — R$ 169,90
+- Conjunto Serena — R$ 209,90
+- Macaquinho Isis — R$ 189,90
+- Conjunto Jade — R$ 199,90
+- Macacão Essence — R$ 219,90
+- Conjunto Flow — R$ 149,90
+
+WhatsApp configurado: (67) 99654-4911.
+A cliente escolhe a cor, o tamanho e a quantidade, coloca na sacola e clica em
+"Consultar disponibilidade pelo WhatsApp". O WhatsApp abre uma mensagem pré-preenchida,
+com as peças, cores, tamanhos, quantidades e subtotal estimado. A mensagem só é
+ENVIADA quando a cliente confirmar o envio no WhatsApp.
+
+Atenção:
+- Este site NÃO controla estoque automaticamente e NÃO confirma compras ou reservas.
+- Cores e tamanhos são opções de consulta, sempre sujeitos à confirmação humana.
+- Algumas imagens mostram cores diferentes das disponíveis, informadas como referências.
+- O Conjunto Flow aparece provisoriamente com P/M/G (confirmar grade do fornecedor).
+- A página não aceita pagamentos. Frete, entrega e pagamento são combinados depois.
+
+PUBLICAR GRATUITAMENTE
+1. Descompacte o ZIP no computador ou aplicativo de arquivos.
+2. Mantenha o arquivo index.html JUNTO com a pasta imagens.
+3. Abra https://app.netlify.com/drop no navegador e faça login/cadastro gratuito.
+4. Arraste a pasta la-activewear-site para a área indicada pelo serviço.
+5. Acesse o endereço gerado e faça uma compra de teste (não envie o pedido se não quiser).
+6. Ao alterar produtos, publique novamente a pasta atualizada.
+
+O endereço gratuito depende da disponibilidade de nomes e dos termos do provedor.
+O site é estático, sem mensalidade própria; custos de domínio personalizado são opcionais.
